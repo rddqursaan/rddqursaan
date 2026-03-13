@@ -1,4 +1,12 @@
 ## Hi there 👋
+Passionate and Result Oriented Data Driven Technologies, Transforming Raw(messy) Data into use full Insights and Intelligent Decision Making Solutions, from India.
+
+
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/76784461/189500420-95442ae0-a91f-42b1-bb11-39280e15b208.svg" width="100%" height="auto">
+	<br><br><br>
+</div>
 
 <!--
 **rddqursaan/rddqursaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
